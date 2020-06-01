@@ -236,9 +236,7 @@ class App extends Component {
 
     return (
       <div className={`App ${darkMode ? "dark" : ""}`}>
-        <Helmet>
-          <title>{i18n.COVID19[lang]}</title>
-        </Helmet>
+        <Helmet>{/* <title>{i18n.COVID19[lang]}</title> */}</Helmet>
         {!dataLoaded ? (
           <Loading />
         ) : (
