@@ -38,3 +38,4 @@ public/data/*.json
 # vscode
 .vscode/*
 *.code-workspace
+.vercel
