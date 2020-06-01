@@ -235,8 +235,10 @@ class App extends Component {
       : AiOutlineFullscreen;
 
     return (
-      <div className={`App ${darkMode ? "dark" : ""}`}>
-        <Helmet>{/* <title>{i18n.COVID19[lang]}</title> */}</Helmet>
+      <div className="App">
+        <Helmet>
+          <title>{i18n.COVID19[lang]}</title>
+        </Helmet>
         {!dataLoaded ? (
           <Loading />
         ) : (
