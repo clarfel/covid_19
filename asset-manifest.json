@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a53a0c9.chunk.css",
+    "main.js": "/static/js/main.a5374be2.chunk.js",
+    "main.js.map": "/static/js/main.a5374be2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51344e82.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51344e82.js.map",
+    "static/css/2.5f822808.chunk.css": "/static/css/2.5f822808.chunk.css",
+    "static/js/2.f6fab9ab.chunk.js": "/static/js/2.f6fab9ab.chunk.js",
+    "static/js/2.f6fab9ab.chunk.js.map": "/static/js/2.f6fab9ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3242cee1104340bd95d0d01226109b08.js": "/precache-manifest.3242cee1104340bd95d0d01226109b08.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5f822808.chunk.css.map": "/static/css/2.5f822808.chunk.css.map",
+    "static/css/main.6a53a0c9.chunk.css.map": "/static/css/main.6a53a0c9.chunk.css.map",
+    "static/js/2.f6fab9ab.chunk.js.LICENSE.txt": "/static/js/2.f6fab9ab.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/WenYueShengHuoJiaTi.b4849602.eot",
+    "static/media/flag-icon.min.css": "/static/media/zw.8b885465.svg",
+    "static/media/covid19.865ca908.svg": "/static/media/covid19.865ca908.svg",
+    "static/media/i18n.yml": "/static/media/i18n.2dc5d962.yml",
+    "static/media/maps.yml": "/static/media/maps.99715425.yml",
+    "static/media/other_diseases_stats.yml": "/static/media/other_diseases_stats.e9a44273.yml",
+    "static/media/transmissions.yml": "/static/media/transmissions.8de85df3.yml",
+    "static/media/transmissions_coord.yml": "/static/media/transmissions_coord.d68bd57b.yml",
+    "static/media/us_map.yml": "/static/media/us_map.db25f547.yml"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51344e82.js",
+    "static/css/2.5f822808.chunk.css",
+    "static/js/2.f6fab9ab.chunk.js",
+    "static/css/main.6a53a0c9.chunk.css",
+    "static/js/main.a5374be2.chunk.js"
+  ]
+}
